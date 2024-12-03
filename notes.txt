@@ -1,0 +1,107 @@
+--- Analysis for Well ID: MW-34 ---
+Mann-Kendall Trend Test for Benzene:
+
+Mann_Kendall_Test(trend='no trend', h=False, p=0.2008859683324129, z=-1.2790314863989354, Tau=-0.18153846153846154, s=-59.0, var_s=2056.3333333333335, slope=-0.0025, intercept=0.09025)
+
+Explanation for Benzene:
+Trend: no trend
+
+p-value (0.2009) is not significant, no evidence for a significant trend.
+
+z-value (-1.2790) is not significant, no strong evidence for a significant trend.
+
+Weak negative trend (Tau ≥ -0.3 and < -0.1).
+
+S-value: -59.0, which reflects the difference between positive and negative ranks.
+
+Variance of S (var_s): 2056.3333, used for calculating z-value.
+
+Estimated slope: -0.002500 per time unit, indicating the rate of change.
+
+Intercept: 0.090250, which helps form the line of best fit for the trend.
+
+Mann-Kendall Trend Test for Toluene:
+
+Mann_Kendall_Test(trend='no trend', h=False, p=0.36549181312235923, z=-0.9049501196555706, Tau=-0.12923076923076923, s=-42.0, var_s=2052.6666666666665, slope=-0.0017833333333333323, intercept=0.08744166666666665)
+
+Explanation for Toluene:
+Trend: no trend
+
+p-value (0.3655) is not significant, no evidence for a significant trend.
+
+z-value (-0.9050) is not significant, no strong evidence for a significant trend.
+
+Weak negative trend (Tau ≥ -0.3 and < -0.1).
+
+S-value: -42.0, which reflects the difference between positive and negative ranks.
+
+Variance of S (var_s): 2052.6667, used for calculating z-value.
+
+Estimated slope: -0.001783 per time unit, indicating the rate of change.
+
+Intercept: 0.087442, which helps form the line of best fit for the trend.
+
+Mann-Kendall Trend Test for Ethyl-Benzene:
+
+Mann_Kendall_Test(trend='no trend', h=False, p=0.1646410322785281, z=1.389630752963382, Tau=0.19692307692307692, s=64.0, var_s=2055.3333333333335, slope=0.025000000000000022, intercept=0.5474999999999999)
+
+Explanation for Ethyl-Benzene:
+Trend: no trend
+
+p-value (0.1646) is not significant, no evidence for a significant trend.
+
+z-value (1.3896) is not significant, no strong evidence for a significant trend.
+
+Weak positive trend (Tau > 0.1 and ≤ 0.3).
+
+S-value: 64.0, which reflects the difference between positive and negative ranks.
+
+Variance of S (var_s): 2055.3333, used for calculating z-value.
+
+Estimated slope: 0.025000 per time unit, indicating the rate of change.
+
+Intercept: 0.547500, which helps form the line of best fit for the trend.
+
+Mann-Kendall Trend Test for Xylenes:
+
+Mann_Kendall_Test(trend='no trend', h=False, p=0.4666736871765029, z=-0.7279018229808192, Tau=-0.10461538461538461, s=-34.0, var_s=2055.3333333333335, slope=-0.040000000000000036, intercept=2.3500000000000005)
+
+Explanation for Xylenes:
+Trend: no trend
+
+p-value (0.4667) is not significant, no evidence for a significant trend.
+
+z-value (-0.7279) is not significant, no strong evidence for a significant trend.
+
+Weak negative trend (Tau ≥ -0.3 and < -0.1).
+
+S-value: -34.0, which reflects the difference between positive and negative ranks.
+
+Variance of S (var_s): 2055.3333, used for calculating z-value.
+
+Estimated slope: -0.040000 per time unit, indicating the rate of change.
+
+Intercept: 2.350000, which helps form the line of best fit for the trend.
+
+Mann-Kendall Trend Test for TVPH:
+
+Mann_Kendall_Test(trend='no trend', h=False, p=0.4270394518546907, z=-0.794267960690753, Tau=-0.11384615384615385, s=-37.0, var_s=2054.3333333333335, slope=-0.1476190476190475, intercept=13.095238095238093)
+
+Explanation for TVPH:
+Trend: no trend
+
+p-value (0.4270) is not significant, no evidence for a significant trend.
+
+z-value (-0.7943) is not significant, no strong evidence for a significant trend.
+
+Weak negative trend (Tau ≥ -0.3 and < -0.1).
+
+S-value: -37.0, which reflects the difference between positive and negative ranks.
+
+Variance of S (var_s): 2054.3333, used for calculating z-value.
+
+Estimated slope: -0.147619 per time unit, indicating the rate of change.
+
+Intercept: 13.095238, which helps form the line of best fit for the trend.
+
+Correlation (Benzene vs Water Table Elevation): 0.005915162419755281 P-value: 0.9771211575865859
